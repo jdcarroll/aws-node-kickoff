@@ -1,0 +1,26 @@
+{
+  "name": "aws-node-kickoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.0.2",
+    "good-console": "^6.1.2",
+    "good-squeeze": "^5.0.0",
+    "hapi": "^15.0.3",
+    "inert": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-open": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
