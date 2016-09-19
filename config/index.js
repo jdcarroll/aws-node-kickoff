@@ -3,7 +3,7 @@
 **/
 module.exports = {
     server: {
-        port: 4000
+        port: 80
     }, // config.server
     plugins: {
         good: { // Establish the logging with Hapi
